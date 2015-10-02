@@ -1,0 +1,10 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\latihan 1\bin\Debug\latihan 1.exe.config
+C:\Users\ADMIN\AppData\Local\Temporary Projects\latihan 1\bin\Debug\latihan 1.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\latihan 1\bin\Debug\latihan 1.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\latihan 1\bin\Debug\latihan 1.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\latihan 1\obj\Debug\latihan_1.Form1.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\latihan 1\obj\Debug\latihan_1.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\latihan 1\obj\Debug\latihan 1.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\latihan 1\obj\Debug\latihan 1.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\latihan 1\obj\Debug\latihan 1.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\latihan 1\obj\Debug\latihan 1.pdb
